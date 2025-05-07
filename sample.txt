@@ -1,3 +1,5 @@
 This is a sample text file.
 
 Added feature: 10.
+
+Commit for cherry picking example.
