@@ -1,4 +1,3 @@
 This is a sample text file.
-This file is now edited.
 
-Added feature: 1.
+Added feature: 10.
